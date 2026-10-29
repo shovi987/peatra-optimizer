@@ -1,0 +1,13 @@
+Site,Action,Cost (Rp million),Fire-risk reduction,Hydrological benefit,Ecological benefit,Technically feasible
+A - Sungai Utama,Repair existing block,20,35,45,30,True
+A - Sungai Utama,Build new block,35,75,78,70,True
+B - Kanal Barat,Repair existing block,15,20,25,20,True
+B - Kanal Barat,Build new block,30,65,70,60,True
+C - Kanal Selatan,Repair existing block,25,40,45,35,True
+C - Kanal Selatan,Build new block,40,90,88,92,True
+D - Area Timur,Repair existing block,18,30,38,32,True
+D - Area Timur,Build new block,32,70,73,75,True
+E - Area Gambut Dalam,Repair existing block,22,42,50,48,False
+E - Area Gambut Dalam,Build new block,38,82,85,88,True
+F - Kanal Utara,Repair existing block,16,25,30,28,True
+F - Kanal Utara,Build new block,29,62,66,64,True
